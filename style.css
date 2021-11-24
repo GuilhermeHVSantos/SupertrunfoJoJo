@@ -180,7 +180,7 @@ form {
   margin: 1.5rem;
   padding: 0.05rem;
   color: white;
-  font-size: 1.6rem;
+  font-size: 31px;
   font-weight: bold;
   font-style: italic;
   -webkit-text-stroke-width: 1.2px;
@@ -212,4 +212,10 @@ footer p {
   font-weight: bold;
   font-style: italic;
   color: white;
+}
+
+@media screen and (max-width: 1000px) {
+  .carta-status {
+    font-size: 22px;
+  }
 }
