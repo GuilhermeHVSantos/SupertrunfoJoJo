@@ -214,7 +214,7 @@ footer p {
   color: white;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1080px) {
   .carta-status {
     font-size: 22px;
   }
