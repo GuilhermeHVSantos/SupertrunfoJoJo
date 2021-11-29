@@ -109,13 +109,6 @@ h2 {
   height: 100%;
 }
 
-.carta-status {
-  height: 160px;
-  margin: 2rem;
-  color: white;
-  z-index: 2;
-}
-
 .carta-status input {
   margin: 20px 10px;
 }
@@ -187,6 +180,7 @@ form {
   -webkit-text-stroke-color: red;
   text-transform: uppercase;
   line-height: 1.6;
+  z-index: 2;
 }
 
 #espacobtn {
